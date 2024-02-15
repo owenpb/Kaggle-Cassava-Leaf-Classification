@@ -18,10 +18,10 @@ The Notebook linked above contains:
 
 4. Preparing our final submission for this competition.
 
-The Notebook contains a link to open it in Google Colab where it can be run with GPU acceleration. Alternatively, separate training and inference notebooks can be forked on run on Kaggle by following these links:
+The Notebook contains a link to open directly in Google Colab, where it can be run with GPU acceleration. Alternatively, separate training and inference notebooks can be forked on run on Kaggle by following these links:
 
 [Finetuned ResNet-152 Model: EDA and Training [1/2]](https://www.kaggle.com/code/owenpb/finetuned-resnet152-model-eda-and-training-1-2/edit/run/162794273)
 
 [Finedtuned ResNet-152 Model: TTA and Inference [2/2]](https://www.kaggle.com/code/owenpb/finetuned-resnet152-model-tta-and-inference-2-2)
 
-For additional details and background information related to this dataset, see the Kaggle competition page at [kaggle.com/c/cassava-leaf-disease-classification](kaggle.com/c/cassava-leaf-disease-classification). 
+To download the full image dataset (6.19 GB), and for additional details and background information related to this dataset, see the Kaggle competition page at [kaggle.com/c/cassava-leaf-disease-classification](kaggle.com/c/cassava-leaf-disease-classification). 
