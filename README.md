@@ -8,7 +8,7 @@ In this competition, we explore a dataset consisting of 21,367 labeled photograp
 
 Our task is to classify each image into one of 5 categories: one indicating a healthy leaf, and the remaining four categories indicating different diseases. These are Cassava Bacteria Blight (CBB), Cassava Brown Streak Disease (CBSD), Cassava Green Mottle (CGM), and Cassava Mosaic Disease (CMD).
 
-The Notebook linked above contains:
+The notebook linked above contains:
 
 1. Exploratory Data Analysis (EDA) of the Cassava leaf image dataset, and demonstration of image augmentation techniques using the Albumentations library.
 
@@ -18,7 +18,7 @@ The Notebook linked above contains:
 
 4. Preparing our final submission for this competition.
 
-The Notebook contains a link to open directly in Google Colab, where it can be run with GPU acceleration. Alternatively, separate training and inference notebooks can be forked on run on Kaggle by following these links:
+The notebook contains a link to open in Google Colab, where it can be run with GPU acceleration enabled. Alternatively, separate training and inference notebooks can be forked and run on Kaggle by following these links:
 
 [Finetuned ResNet-152 Model: EDA and Training [1/2]](https://www.kaggle.com/code/owenpb/finetuned-resnet152-model-eda-and-training-1-2/edit/run/162794273)
 
